@@ -6,19 +6,10 @@
     <description>Recent content in SSRS on NS News and Views</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 22 Oct 2017 15:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2014 08:28:45 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/ssrs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>How to get the latest student photo from iSAMS</title>
-      <link>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</link>
-      <pubDate>Sun, 22 Oct 2017 15:59:57 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</guid>
-      <description>It’s been eight months since my last blog post, having taken on a new job, been on the receiving end of a full-on enterprise ransomware attack (that wasn’t nice!) and quite frankly experiencing one heck of a baptism of fire - I felt it was time do write a quick blog post tip!</description>
-    </item>
     
     <item>
       <title>Stamp an iSAMS report with the current username</title>

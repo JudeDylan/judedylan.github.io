@@ -6,29 +6,10 @@
     <description>Recent content in Website on NS News and Views</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 19 Sep 2015 12:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2015 20:39:25 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Secure a webpage without a logon?</title>
-      <link>https://email-us.co.uk/secure-a-webpage-without-a-logon/</link>
-      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/secure-a-webpage-without-a-logon/</guid>
-      <description>Secure access to a webpage, without the need for a logon, can often be viewed as a bit of a holy grail solution.
-Recently, I introduced a frictionless (logon free) way of providing secure(ish) access to some very basic web services.</description>
-    </item>
-    
-    <item>
-      <title>A blend of style and performance</title>
-      <link>https://email-us.co.uk/a-blend-of-style-and-performance/</link>
-      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/a-blend-of-style-and-performance/</guid>
-      <description>Recently, I had the privilege of designing and building the Wylye Valley Art Trail website. The 2015 trail consists of 75 venues, and in-excess of 300 artists – I’m sure you’ll agree, that’s a reasonable size!</description>
-    </item>
     
     <item>
       <title>Welcome to Podcast University!</title>
@@ -41,34 +22,6 @@ Recently, I introduced a frictionless (logon free) way of providing secure(ish) 
     </item>
     
     <item>
-      <title>Happy with a hack?</title>
-      <link>https://email-us.co.uk/happy-with-a-hack/</link>
-      <pubDate>Fri, 03 Oct 2014 21:37:41 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/happy-with-a-hack/</guid>
-      <description>Most software developers at some point, will almost certainly encounter the need to hack together a solution.
-To quote Wikipedia, the term hack, for the purposes of this blog post is:</description>
-    </item>
-    
-    <item>
-      <title>Cache-busting in C# without querystrings</title>
-      <link>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</link>
-      <pubDate>Mon, 14 Jul 2014 21:38:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</guid>
-      <description>A key benefit of working with the web (or more specifically http) is it’s native ability to cache. This can be ‘tuned’ to make websites extremely fast and slick, especially after initial page load.</description>
-    </item>
-    
-    <item>
-      <title>Dip your toe into a little SASS!</title>
-      <link>https://email-us.co.uk/dip-your-toe-into-a-little-sass/</link>
-      <pubDate>Thu, 22 May 2014 21:26:43 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/dip-your-toe-into-a-little-sass/</guid>
-      <description>Ok…I get the whole CSS pre-processor movement; I don’t need convincing of why it is so good. However, what I do need, is a justification to invest time into learning yet another technology!</description>
-    </item>
-    
-    <item>
       <title>Technically challenge your web designer!</title>
       <link>https://email-us.co.uk/technically-challenge-your-web-designer/</link>
       <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
@@ -78,39 +31,12 @@ To quote Wikipedia, the term hack, for the purposes of this blog post is:</descr
     </item>
     
     <item>
-      <title>Good enough? Don’t answer that!</title>
-      <link>https://email-us.co.uk/good-enough-dont-answer-that/</link>
-      <pubDate>Fri, 27 Dec 2013 17:34:12 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/good-enough-dont-answer-that/</guid>
-      <description>One of my favourite blog posts is “I&amp;rsquo;m a phony. Are you?” by Scott Hanselman. I was on holiday in France when I read this post, and it gave me a wonderful sense of relief - I highly encourage you to read it.</description>
-    </item>
-    
-    <item>
-      <title>Creating a Firefly VLE online users feature</title>
-      <link>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</link>
-      <pubDate>Wed, 18 Dec 2013 23:44:05 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</guid>
-      <description>At St Mary&amp;rsquo;s Shaftesbury we use Firefly for our VLE. I won’t give you a sales pitch on Firefly, but suffice to say, that after a bit of a journey from Moodle through SharePoint we have rested at Firefly – quite simply, at this point in time (history has taught me that things can change!</description>
-    </item>
-    
-    <item>
       <title>Using PowerShell to check all pages in a website</title>
       <link>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</link>
       <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
       
       <guid>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</guid>
       <description>Recently St Mary’s Shaftesbury had a new website built (I would like to register, that whilst I was actively involved in the project management, I did not design this website).</description>
-    </item>
-    
-    <item>
-      <title>Bin the portfolio and blog instead!</title>
-      <link>https://email-us.co.uk/bin-the-portfolio-and-blog-instead/</link>
-      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/bin-the-portfolio-and-blog-instead/</guid>
-      <description>Frankly, I love IT, and web development in particular. I also happen to be exceptionally fortunate to work as an ICT Systems Manager, for a wonderful employer (St Mary&amp;rsquo;s Shaftesbury) with a great boss (@pearcejim) alongside excellent, appreciative colleagues – the surrounding environment, is also quite heavenly – trust me, it beats working on an industrial estate, just take a look!</description>
     </item>
     
     <item>

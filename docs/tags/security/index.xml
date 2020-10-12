@@ -20,33 +20,5 @@
       <description>Recently I decided to hold a short(ish) staff training session on how to spot internet / email scams. The catalyst behind this, was primarily due to the sheer amount of helpdesk queries being received, pertaining to whether a particular website or email was genuine etc.</description>
     </item>
     
-    <item>
-      <title>Security should be a first class citizen</title>
-      <link>https://email-us.co.uk/security-should-be-a-first-class-citizen/</link>
-      <pubDate>Tue, 29 Nov 2016 16:32:17 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/security-should-be-a-first-class-citizen/</guid>
-      <description>Let’s face it, information security is important. With more and more data being stored and accessed via the internet, we are becoming increasingly reliant on “third parties” to secure our personal data responsibly.</description>
-    </item>
-    
-    <item>
-      <title>Honeypots to catch prying eyes!</title>
-      <link>https://email-us.co.uk/honeypots-to-catch-prying-eyes/</link>
-      <pubDate>Mon, 06 Jun 2016 18:47:51 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/honeypots-to-catch-prying-eyes/</guid>
-      <description>As I have mentioned in previous blog posts, I regularly listen to numerous technical podcasts. A relatively new edition to my listening collection is the information security podcast Risky Business – it’s great!</description>
-    </item>
-    
-    <item>
-      <title>Secure a webpage without a logon?</title>
-      <link>https://email-us.co.uk/secure-a-webpage-without-a-logon/</link>
-      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/secure-a-webpage-without-a-logon/</guid>
-      <description>Secure access to a webpage, without the need for a logon, can often be viewed as a bit of a holy grail solution.
-Recently, I introduced a frictionless (logon free) way of providing secure(ish) access to some very basic web services.</description>
-    </item>
-    
   </channel>
 </rss>

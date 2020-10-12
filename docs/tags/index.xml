@@ -6,91 +6,10 @@
     <description>Recent content in Tags on NS News and Views</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 19 Feb 2020 17:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Oct 2018 08:01:59 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Database</title>
-      <link>https://email-us.co.uk/tags/database/</link>
-      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iSAMS</title>
-      <link>https://email-us.co.uk/tags/isams/</link>
-      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/isams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIS</title>
-      <link>https://email-us.co.uk/tags/mis/</link>
-      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/mis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://email-us.co.uk/tags/powerbi/</link>
-      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/powerbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://email-us.co.uk/tags/sql/</link>
-      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exchange</title>
-      <link>https://email-us.co.uk/tags/exchange/</link>
-      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/exchange/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Powershell</title>
-      <link>https://email-us.co.uk/tags/powershell/</link>
-      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/powershell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quicktip</title>
-      <link>https://email-us.co.uk/tags/quicktip/</link>
-      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/quicktip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SysAdmin</title>
-      <link>https://email-us.co.uk/tags/sysadmin/</link>
-      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/sysadmin/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Linux</title>
@@ -102,20 +21,20 @@
     </item>
     
     <item>
+      <title>Quicktip</title>
+      <link>https://email-us.co.uk/tags/quicktip/</link>
+      <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/quicktip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>WSL</title>
       <link>https://email-us.co.uk/tags/wsl/</link>
       <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/wsl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SSRS</title>
-      <link>https://email-us.co.uk/tags/ssrs/</link>
-      <pubDate>Sun, 22 Oct 2017 15:59:57 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/ssrs/</guid>
       <description></description>
     </item>
     
@@ -147,9 +66,18 @@
     </item>
     
     <item>
+      <title>Blog</title>
+      <link>https://email-us.co.uk/tags/blog/</link>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DevOps</title>
       <link>https://email-us.co.uk/tags/devops/</link>
-      <pubDate>Tue, 29 Nov 2016 16:32:17 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/devops/</guid>
       <description></description>
@@ -158,108 +86,36 @@
     <item>
       <title>Rambling</title>
       <link>https://email-us.co.uk/tags/rambling/</link>
-      <pubDate>Tue, 29 Nov 2016 16:32:17 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/rambling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Office 365</title>
-      <link>https://email-us.co.uk/tags/office-365/</link>
-      <pubDate>Tue, 08 Mar 2016 18:19:57 +0000</pubDate>
+      <title>SysAdmin</title>
+      <link>https://email-us.co.uk/tags/sysadmin/</link>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
       
-      <guid>https://email-us.co.uk/tags/office-365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>https://email-us.co.uk/tags/c#/</link>
-      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/c#/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Razor</title>
-      <link>https://email-us.co.uk/tags/razor/</link>
-      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/razor/</guid>
+      <guid>https://email-us.co.uk/tags/sysadmin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
       <link>https://email-us.co.uk/tags/website/</link>
-      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Excel</title>
-      <link>https://email-us.co.uk/tags/excel/</link>
-      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/excel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macro</title>
-      <link>https://email-us.co.uk/tags/macro/</link>
-      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/macro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Script</title>
-      <link>https://email-us.co.uk/tags/script/</link>
-      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/script/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caching</title>
-      <link>https://email-us.co.uk/tags/caching/</link>
-      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/caching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://email-us.co.uk/tags/css/</link>
-      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JavaScript</title>
       <link>https://email-us.co.uk/tags/javascript/</link>
-      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://email-us.co.uk/tags/blog/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/blog/</guid>
       <description></description>
     </item>
     
@@ -273,56 +129,74 @@
     </item>
     
     <item>
+      <title>iSAMS</title>
+      <link>https://email-us.co.uk/tags/isams/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/isams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIS</title>
+      <link>https://email-us.co.uk/tags/mis/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/mis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerShell</title>
+      <link>https://email-us.co.uk/tags/powershell/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSRS</title>
+      <link>https://email-us.co.uk/tags/ssrs/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/ssrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CMS</title>
       <link>https://email-us.co.uk/tags/cms/</link>
-      <pubDate>Fri, 03 Oct 2014 21:37:41 +0000</pubDate>
+      <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/cms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SASS</title>
-      <link>https://email-us.co.uk/tags/sass/</link>
-      <pubDate>Thu, 22 May 2014 21:26:43 +0000</pubDate>
+      <title>Script</title>
+      <link>https://email-us.co.uk/tags/script/</link>
+      <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
       
-      <guid>https://email-us.co.uk/tags/sass/</guid>
+      <guid>https://email-us.co.uk/tags/script/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Crystal Reports</title>
-      <link>https://email-us.co.uk/tags/crystal-reports/</link>
-      <pubDate>Thu, 08 May 2014 10:04:30 +0000</pubDate>
+      <title>C#</title>
+      <link>https://email-us.co.uk/tags/c#/</link>
+      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
       
-      <guid>https://email-us.co.uk/tags/crystal-reports/</guid>
+      <guid>https://email-us.co.uk/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Schoolbase</title>
-      <link>https://email-us.co.uk/tags/schoolbase/</link>
-      <pubDate>Thu, 08 May 2014 10:04:30 +0000</pubDate>
+      <title>Razor</title>
+      <link>https://email-us.co.uk/tags/razor/</link>
+      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
       
-      <guid>https://email-us.co.uk/tags/schoolbase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Firefly</title>
-      <link>https://email-us.co.uk/tags/firefly/</link>
-      <pubDate>Fri, 28 Mar 2014 20:11:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/firefly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VLE</title>
-      <link>https://email-us.co.uk/tags/vle/</link>
-      <pubDate>Fri, 28 Mar 2014 20:11:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/vle/</guid>
+      <guid>https://email-us.co.uk/tags/razor/</guid>
       <description></description>
     </item>
     

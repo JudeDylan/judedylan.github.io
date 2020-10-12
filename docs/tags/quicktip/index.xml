@@ -6,28 +6,10 @@
     <description>Recent content in Quicktip on NS News and Views</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 28 Jun 2019 09:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Oct 2018 08:01:59 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/quicktip/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>How to populate an O365 DG from a Security Group</title>
-      <link>https://email-us.co.uk/how-to-populate-an-o365-dg-from-a-security-group/</link>
-      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/how-to-populate-an-o365-dg-from-a-security-group/</guid>
-      <description>Having fully migrated our on-prem Exchange to Exchange Online, there were a few little gotchas along the way that we had to contend with - which was to be expected.</description>
-    </item>
-    
-    <item>
-      <title>How to delete an email from all Exchange mailboxes</title>
-      <link>https://email-us.co.uk/how-to-delete-an-email-from-all-exchange-mailboxes/</link>
-      <pubDate>Tue, 16 Oct 2018 15:45:26 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/how-to-delete-an-email-from-all-exchange-mailboxes/</guid>
-      <description>It&amp;rsquo;s not uncommon to receive unwanted emails which have managed to work their way through the array of filtering systems in production. Recently our organisation received such an email - a classic phishing email sent to multiple end user accounts.</description>
-    </item>
     
     <item>
       <title>YouTube downloading using WSL</title>
@@ -36,70 +18,6 @@
       
       <guid>https://email-us.co.uk/youtube-downloading-using-wsl/</guid>
       <description>To be honest, as I&amp;rsquo;m sure any right-minded individual would agree, downloading videos from YouTube for personal gain is wrong. However, there are occasions when it is arguably reasonable and possibly even legitimate to do such a thing.</description>
-    </item>
-    
-    <item>
-      <title>Encourage those Windows to restart!</title>
-      <link>https://email-us.co.uk/encourage-those-windows-to-restart/</link>
-      <pubDate>Mon, 01 Oct 2018 19:47:29 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/encourage-those-windows-to-restart/</guid>
-      <description>A common issue with supporting a primarily Windows based user body, is that thanks to the &amp;ldquo;always on&amp;rdquo; expectation emboldened by smartphones and tablets, it can be a constant battle to try and encourage end users to restart their computers with some degree of regularity - yes IT friends, you know exactly what I mean!</description>
-    </item>
-    
-    <item>
-      <title>How to get the latest student photo from iSAMS</title>
-      <link>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</link>
-      <pubDate>Sun, 22 Oct 2017 15:59:57 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</guid>
-      <description>It’s been eight months since my last blog post, having taken on a new job, been on the receiving end of a full-on enterprise ransomware attack (that wasn’t nice!) and quite frankly experiencing one heck of a baptism of fire - I felt it was time do write a quick blog post tip!</description>
-    </item>
-    
-    <item>
-      <title>Honeypots to catch prying eyes!</title>
-      <link>https://email-us.co.uk/honeypots-to-catch-prying-eyes/</link>
-      <pubDate>Mon, 06 Jun 2016 18:47:51 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/honeypots-to-catch-prying-eyes/</guid>
-      <description>As I have mentioned in previous blog posts, I regularly listen to numerous technical podcasts. A relatively new edition to my listening collection is the information security podcast Risky Business – it’s great!</description>
-    </item>
-    
-    <item>
-      <title>PowerShell to disable Clutter in Office 365</title>
-      <link>https://email-us.co.uk/powershell-to-disable-clutter-in-office-365/</link>
-      <pubDate>Tue, 08 Mar 2016 18:19:57 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/powershell-to-disable-clutter-in-office-365/</guid>
-      <description>Most users of Office 365 will no doubt be aware of the Clutter folder; for the most part this Clutter folder works pretty well.
- I’m not intending to go into the algorithmic processes of how the Clutter folder works, in this blog post - even if I could!</description>
-    </item>
-    
-    <item>
-      <title>Office 365, Outlook &amp; attachments</title>
-      <link>https://email-us.co.uk/office-365-outlook-and-attachments/</link>
-      <pubDate>Sun, 17 Jan 2016 13:22:59 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/office-365-outlook-and-attachments/</guid>
-      <description>Recently, we received rather confusing claims from specific users, stating they were receiving certain emails, often days after they had been sent. This behavior was not consistent across the user base.</description>
-    </item>
-    
-    <item>
-      <title>Excel Macro to manipulate CAT data</title>
-      <link>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</link>
-      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</guid>
-      <description>Recently, I was asked whether I could provide some assistance with manipulating data, that had been exported from a CAT results test. The problem, had slowly been driving a colleague of mine, very slightly crazy!</description>
-    </item>
-    
-    <item>
-      <title>Locked out user email notification</title>
-      <link>https://email-us.co.uk/locked-out-user-email-notification/</link>
-      <pubDate>Sat, 20 Jun 2015 15:11:29 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/locked-out-user-email-notification/</guid>
-      <description>It recently occurred to me, that whilst my current full-time position is an IT Systems Manager, the majority of my blog posts thus far, have been more web centric – which is great, as I love the web and web technologies!</description>
     </item>
     
   </channel>
