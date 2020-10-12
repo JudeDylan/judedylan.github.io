@@ -1,0 +1,534 @@
+@import "_include-media.scss";
+
+$ooob-red: #c62129;
+$ooob-white: #fff;
+$ooob-black: #000;
+
+/* Basics */
+
+html {
+  min-height: 100%;
+  background-color: $ooob-white;
+  position: relative;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
+
+body {
+  font: 19px/1.6 "Open Sans", Ubuntu, "Nimbus Sans L", Avenir, AvenirNext,
+    "Segoe UI", Helvetica, Arial, sans-serif;
+
+  color: #222;
+  background-color: $ooob-white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+img {
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+ul > li {
+  display: table-row;
+}
+
+ul > li::before {
+  content: "⦿";
+  display: table-cell;
+  padding-right: 10px;
+  text-align: right;
+}
+
+hr.style-ns {
+  margin-top: 1.3em;
+  border: 0;
+  height: 0;
+  box-shadow: 0 0 10px 0.4px black;
+}
+
+hr.style-ns:after {
+  content: " ";
+}
+
+hr {
+  border: 0;
+  border-top: 0.1rem solid $ooob-red;
+  margin: 3rem 0;
+}
+
+.ns-short-hr {
+  max-width: 250px;
+  margin: auto;
+  border-top: 0.1rem solid #626262;
+  padding-bottom: 10px;
+}
+
+a {
+  color: #0070be;
+  border-bottom: 0.08em solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 0.08em;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  border-bottom: 0.08em solid $ooob-red;
+  text-decoration: none;
+}
+
+/* End Basics */
+
+/* Pagination */
+
+.pagination {
+  padding-bottom: 2em;
+  margin-top: 1em;
+}
+
+.pagination a {
+  border: 1px solid #bbb;
+  background: #f1f1f1;
+  color: #222;
+  display: inline-block;
+  padding: 4px 15px;
+  text-decoration: none;
+}
+
+.pagination a:hover,
+.pagination a:focus {
+  background: #dfdfdf;
+}
+
+.pagination a[rel="next"] {
+  float: right;
+}
+
+/* End Pagination */
+
+/* Start PostList */
+
+main {
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  animation: fade-in 1s ease;
+}
+
+header,
+.ns-main > h1,
+.ns-postdate {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.post header h1 a {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.post header h1 a:hover {
+  text-shadow: 0 0 1px #bbb, 0 0 5px #bbb;
+}
+
+article {
+  page-break-after: always;
+}
+
+.post p:first-child:first-letter {
+  float: left;
+  font-family: Georgia;
+  font-size: 71px;
+  line-height: 50px;
+  padding-top: 5px;
+  padding-right: 8px;
+}
+
+.ns-list-articles:hover {
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff;
+}
+
+.ns-main {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+.ns-post-summary {
+  color: $ooob-black;
+}
+
+.ns-readmore {
+  margin-bottom: 2.2em;
+}
+
+time,
+.ns-tags {
+  color: #626262;
+  font-size: 0.85em;
+}
+
+.ns-main img {
+  border-style: solid;
+  border-width: 1px;
+  padding: 0.5em;
+}
+
+.ns-totalpages {
+  text-align: center;
+  color: #626262;
+  font-size: 0.85em;
+}
+
+/* End PostList */
+
+/* Style CodeStyle */
+
+code,
+pre {
+  background-color: #272822;
+}
+
+/* End CodeStyle */
+
+/* Image Animation */
+
+.notloaded {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+.loaded {
+  background: none;
+  opacity: 1;
+  transform: scale(1);
+  transition: all 400ms ease-in;
+  // Don't animate when the reduced motion accessibility option
+  // has been enabled in the browser or OS. Safari is supporting this
+  @media screen and (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+/* End Image Animation */
+
+/* Start Menu */
+
+.pie {
+  -webkit-tap-highlight-color: transparent;
+  background: $ooob-black;
+  border-radius: 50%;
+  box-shadow: 0 0 4px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  height: 400px;
+  left: -200px;
+  position: absolute;
+  top: -200px;
+  width: 400px;
+  transform: translateX(-200px) translateY(-200px);
+  transition: transform 300ms;
+  z-index: 1;
+}
+.pie-color:hover {
+  opacity: 0.85;
+}
+.pie-color:active {
+  opacity: 0.7;
+}
+.pie1 {
+  clip-path: polygon(200px 200px, 344px 450px, 0 450px);
+  transition-delay: 30ms;
+}
+.pie2 {
+  clip-path: polygon(200px 200px, 344px 450px, 450px 344px);
+  transition-delay: 60ms;
+}
+.pie3 {
+  clip-path: polygon(200px 200px, 450px 0, 450px 344px);
+  transition-delay: 90ms;
+}
+.pie-color {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.pie-color-hyperlink {
+  font-size: 1.7rem;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: $ooob-white;
+}
+
+.pie-color1 {
+  background: linear-gradient(135deg, $ooob-red, $ooob-red);
+  clip-path: polygon(200px 200px, 344px 450px, 0 450px);
+}
+.pie-color2 {
+  background: linear-gradient(135deg, $ooob-white, $ooob-white);
+  clip-path: polygon(200px 200px, 344px 450px, 450px 344px);
+}
+.pie-color3 {
+  background: linear-gradient(135deg, $ooob-red, $ooob-red);
+  clip-path: polygon(200px 200px, 450px 0, 450px 344px);
+}
+.linkedin {
+  left: 208px;
+  position: absolute;
+  top: 320px;
+}
+.twitter {
+  left: 282px;
+  position: absolute;
+  top: 279px;
+  width: 46px;
+}
+.rss {
+  left: 324px;
+  position: absolute;
+  top: 210px;
+  width: 46px;
+}
+.menu {
+  -webkit-tap-highlight-color: transparent;
+  background: $ooob-white;
+  border-radius: 50%;
+  box-shadow: 0 0 4px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  height: 200px;
+  left: -100px;
+  position: absolute;
+  top: -100px;
+  width: 200px;
+  z-index: 1;
+}
+.hamburger {
+  cursor: pointer;
+  height: 46px;
+  left: 58%;
+  position: relative;
+  top: 58%;
+  width: 46px;
+}
+.hamburger path {
+  transition: transform 300ms;
+}
+.hamburger path:nth-child(1) {
+  transform-origin: 25% 29%;
+}
+.hamburger path:nth-child(2) {
+  transform-origin: 50% 50%;
+}
+.hamburger path:nth-child(3) {
+  transform-origin: 75% 72%;
+}
+.hamburger path:nth-child(4) {
+  transform-origin: 75% 29%;
+}
+.hamburger path:nth-child(5) {
+  transform-origin: 25% 72%;
+}
+.active .pie {
+  transform: translateX(0) translateY(0);
+}
+.active .hamburger path:nth-child(1) {
+  transform: rotate(45deg);
+}
+.active .hamburger path:nth-child(2) {
+  transform: scaleX(0);
+}
+.active .hamburger path:nth-child(3) {
+  transform: rotate(45deg);
+}
+.active .hamburger path:nth-child(4) {
+  transform: rotate(-45deg);
+}
+.active .hamburger path:nth-child(5) {
+  transform: rotate(-45deg);
+}
+
+/* End Menu */
+
+/* Header*/
+
+/* The hero image */
+
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/img/BandHeader.jpg?v=fingerprint");
+
+  /* Set a specific height */
+  min-height: 280px;
+  height: 50%;
+  box-shadow: -5px 24px 65px -31px rgba(0, 0, 0, 0.75);
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.webp .hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/img/BandHeader.webp?v=fingerprint");
+
+  /* Set a specific height */
+  min-height: 280px;
+  height: 50%;
+  box-shadow: -5px 24px 65px -31px rgba(0, 0, 0, 0.75);
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.avif .hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/img/BandHeader.avif?v=fingerprint");
+
+  /* Set a specific height */
+  min-height: 280px;
+  height: 50%;
+  box-shadow: -5px 24px 65px -31px rgba(0, 0, 0, 0.75);
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  color: $ooob-white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  transform: translate(-50%, -50%);
+
+  @include media(">1366px") {
+    width: 40%;
+  }
+  @include media(">=desktop", "<=1366px", "portrait") {
+    width: 80%;
+  }
+  @include media(">=desktop", "<=1366px", "landscape") {
+    width: 40%;
+  }
+  @include media("<desktop", "portrait") {
+    width: 80%;
+  }
+  @include media("<desktop", "landscape") {
+    width: 50%;
+  }
+}
+
+.hero-text a {
+  color: $ooob-white;
+  border-bottom: 0;
+  :visited,
+  :hover {
+    border-bottom: 0;
+  }
+}
+
+.ns-tagline {
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+  max-width: 800px;
+  position: relative;
+  text-align: center;
+}
+
+.ns-social {
+  margin: auto;
+  max-width: 800px;
+  position: relative;
+  text-align: center;
+}
+
+/* End Header */
+
+/* Footer */
+
+footer {
+  position: fixed;
+  color: $ooob-white;
+  height: 45px;
+  background-color: $ooob-black;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+  z-index: 9999;
+
+  p {
+    padding-top: 8px;
+  }
+}
+
+/* End Footer */
+
+/* Share Button */
+
+.ns-hidden {
+  display: none;
+}
+.ns-share-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 7px;
+  padding: 4px;
+}
+
+button.ns-share-btn {
+  visibility: hidden;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #ddd;
+  color: #777;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+
+/* End Share Button */

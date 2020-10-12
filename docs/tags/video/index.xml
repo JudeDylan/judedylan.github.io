@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/video/</link>
+    <description>Recent content in Video on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 13 Feb 2017 19:33:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to spot internet scams and fake emails</title>
+      <link>https://email-us.co.uk/how-to-spot-internet-scams-and-fake-emails/</link>
+      <pubDate>Mon, 13 Feb 2017 19:33:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-spot-internet-scams-and-fake-emails/</guid>
+      <description>Recently I decided to hold a short(ish) staff training session on how to spot internet / email scams. The catalyst behind this, was primarily due to the sheer amount of helpdesk queries being received, pertaining to whether a particular website or email was genuine etc.</description>
+    </item>
+    
+  </channel>
+</rss>

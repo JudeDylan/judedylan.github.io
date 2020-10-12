@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSRS on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/ssrs/</link>
+    <description>Recent content in SSRS on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 22 Oct 2017 15:59:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/ssrs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to get the latest student photo from iSAMS</title>
+      <link>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</link>
+      <pubDate>Sun, 22 Oct 2017 15:59:57 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</guid>
+      <description>It’s been eight months since my last blog post, having taken on a new job, been on the receiving end of a full-on enterprise ransomware attack (that wasn’t nice!) and quite frankly experiencing one heck of a baptism of fire - I felt it was time do write a quick blog post tip!</description>
+    </item>
+    
+    <item>
+      <title>Stamp an iSAMS report with the current username</title>
+      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
+      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
+ Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
+    </item>
+    
+  </channel>
+</rss>

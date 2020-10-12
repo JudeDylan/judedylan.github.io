@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NS News and Views</title>
+    <link>https://email-us.co.uk/</link>
+    <description>Recent content on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 19 Feb 2020 17:31:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Power BI &#43; iSAMS API</title>
+      <link>https://email-us.co.uk/power-bi-and-isams-api/</link>
+      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/power-bi-and-isams-api/</guid>
+      <description>Like many people, I&amp;rsquo;ve tinkered with Power BI over the years but have never really dug deep into the weeds; the same can also be said for the iSAMS REST API.</description>
+    </item>
+    
+    <item>
+      <title>How to populate an O365 DG from a Security Group</title>
+      <link>https://email-us.co.uk/how-to-populate-an-o365-dg-from-a-security-group/</link>
+      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-populate-an-o365-dg-from-a-security-group/</guid>
+      <description>Having fully migrated our on-prem Exchange to Exchange Online, there were a few little gotchas along the way that we had to contend with - which was to be expected.</description>
+    </item>
+    
+    <item>
+      <title>How to delete an email from all Exchange mailboxes</title>
+      <link>https://email-us.co.uk/how-to-delete-an-email-from-all-exchange-mailboxes/</link>
+      <pubDate>Tue, 16 Oct 2018 15:45:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-delete-an-email-from-all-exchange-mailboxes/</guid>
+      <description>It&amp;rsquo;s not uncommon to receive unwanted emails which have managed to work their way through the array of filtering systems in production. Recently our organisation received such an email - a classic phishing email sent to multiple end user accounts.</description>
+    </item>
+    
+    <item>
+      <title>YouTube downloading using WSL</title>
+      <link>https://email-us.co.uk/youtube-downloading-using-wsl/</link>
+      <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/youtube-downloading-using-wsl/</guid>
+      <description>To be honest, as I&amp;rsquo;m sure any right-minded individual would agree, downloading videos from YouTube for personal gain is wrong. However, there are occasions when it is arguably reasonable and possibly even legitimate to do such a thing.</description>
+    </item>
+    
+    <item>
+      <title>Encourage those Windows to restart!</title>
+      <link>https://email-us.co.uk/encourage-those-windows-to-restart/</link>
+      <pubDate>Mon, 01 Oct 2018 19:47:29 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/encourage-those-windows-to-restart/</guid>
+      <description>A common issue with supporting a primarily Windows based user body, is that thanks to the &amp;ldquo;always on&amp;rdquo; expectation emboldened by smartphones and tablets, it can be a constant battle to try and encourage end users to restart their computers with some degree of regularity - yes IT friends, you know exactly what I mean!</description>
+    </item>
+    
+    <item>
+      <title>How to get the latest student photo from iSAMS</title>
+      <link>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</link>
+      <pubDate>Sun, 22 Oct 2017 15:59:57 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</guid>
+      <description>It’s been eight months since my last blog post, having taken on a new job, been on the receiving end of a full-on enterprise ransomware attack (that wasn’t nice!) and quite frankly experiencing one heck of a baptism of fire - I felt it was time do write a quick blog post tip!</description>
+    </item>
+    
+    <item>
+      <title>How to spot internet scams and fake emails</title>
+      <link>https://email-us.co.uk/how-to-spot-internet-scams-and-fake-emails/</link>
+      <pubDate>Mon, 13 Feb 2017 19:33:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-spot-internet-scams-and-fake-emails/</guid>
+      <description>Recently I decided to hold a short(ish) staff training session on how to spot internet / email scams. The catalyst behind this, was primarily due to the sheer amount of helpdesk queries being received, pertaining to whether a particular website or email was genuine etc.</description>
+    </item>
+    
+    <item>
+      <title>Security should be a first class citizen</title>
+      <link>https://email-us.co.uk/security-should-be-a-first-class-citizen/</link>
+      <pubDate>Tue, 29 Nov 2016 16:32:17 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/security-should-be-a-first-class-citizen/</guid>
+      <description>Let’s face it, information security is important. With more and more data being stored and accessed via the internet, we are becoming increasingly reliant on “third parties” to secure our personal data responsibly.</description>
+    </item>
+    
+    <item>
+      <title>Honeypots to catch prying eyes!</title>
+      <link>https://email-us.co.uk/honeypots-to-catch-prying-eyes/</link>
+      <pubDate>Mon, 06 Jun 2016 18:47:51 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/honeypots-to-catch-prying-eyes/</guid>
+      <description>As I have mentioned in previous blog posts, I regularly listen to numerous technical podcasts. A relatively new edition to my listening collection is the information security podcast Risky Business – it’s great!</description>
+    </item>
+    
+    <item>
+      <title>PowerShell to disable Clutter in Office 365</title>
+      <link>https://email-us.co.uk/powershell-to-disable-clutter-in-office-365/</link>
+      <pubDate>Tue, 08 Mar 2016 18:19:57 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/powershell-to-disable-clutter-in-office-365/</guid>
+      <description>Most users of Office 365 will no doubt be aware of the Clutter folder; for the most part this Clutter folder works pretty well.
+ I’m not intending to go into the algorithmic processes of how the Clutter folder works, in this blog post - even if I could!</description>
+    </item>
+    
+    <item>
+      <title>Office 365, Outlook &amp; attachments</title>
+      <link>https://email-us.co.uk/office-365-outlook-and-attachments/</link>
+      <pubDate>Sun, 17 Jan 2016 13:22:59 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/office-365-outlook-and-attachments/</guid>
+      <description>Recently, we received rather confusing claims from specific users, stating they were receiving certain emails, often days after they had been sent. This behavior was not consistent across the user base.</description>
+    </item>
+    
+    <item>
+      <title>Secure a webpage without a logon?</title>
+      <link>https://email-us.co.uk/secure-a-webpage-without-a-logon/</link>
+      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/secure-a-webpage-without-a-logon/</guid>
+      <description>Secure access to a webpage, without the need for a logon, can often be viewed as a bit of a holy grail solution.
+Recently, I introduced a frictionless (logon free) way of providing secure(ish) access to some very basic web services.</description>
+    </item>
+    
+    <item>
+      <title>Excel Macro to manipulate CAT data</title>
+      <link>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</link>
+      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</guid>
+      <description>Recently, I was asked whether I could provide some assistance with manipulating data, that had been exported from a CAT results test. The problem, had slowly been driving a colleague of mine, very slightly crazy!</description>
+    </item>
+    
+    <item>
+      <title>Locked out user email notification</title>
+      <link>https://email-us.co.uk/locked-out-user-email-notification/</link>
+      <pubDate>Sat, 20 Jun 2015 15:11:29 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/locked-out-user-email-notification/</guid>
+      <description>It recently occurred to me, that whilst my current full-time position is an IT Systems Manager, the majority of my blog posts thus far, have been more web centric – which is great, as I love the web and web technologies!</description>
+    </item>
+    
+    <item>
+      <title>A blend of style and performance</title>
+      <link>https://email-us.co.uk/a-blend-of-style-and-performance/</link>
+      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/a-blend-of-style-and-performance/</guid>
+      <description>Recently, I had the privilege of designing and building the Wylye Valley Art Trail website. The 2015 trail consists of 75 venues, and in-excess of 300 artists – I’m sure you’ll agree, that’s a reasonable size!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Podcast University!</title>
+      <link>https://email-us.co.uk/welcome-to-podcast-university/</link>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/welcome-to-podcast-university/</guid>
+      <description>Recently, a very good friend of mine (@richieclarkie) decided to return to the IT industry after a 15 year absence.
+ Clearly a 15 year hiatus, is significant in any industry, but especially pertaining to IT, it is arguably exceptional.</description>
+    </item>
+    
+    <item>
+      <title>Tracking devices in UniFi WiFi</title>
+      <link>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</link>
+      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</guid>
+      <description>Several years ago, we migrated from a Cisco Wi-Fi infrastructure to a UniFi setup.
+UniFi (from Ubiquiti Networks) offer a pretty remarkable WiFi solution, especially when it comes down to cost.</description>
+    </item>
+    
+    <item>
+      <title>Stamp an iSAMS report with the current username</title>
+      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
+      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
+ Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>Happy with a hack?</title>
+      <link>https://email-us.co.uk/happy-with-a-hack/</link>
+      <pubDate>Fri, 03 Oct 2014 21:37:41 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/happy-with-a-hack/</guid>
+      <description>Most software developers at some point, will almost certainly encounter the need to hack together a solution.
+To quote Wikipedia, the term hack, for the purposes of this blog post is:</description>
+    </item>
+    
+    <item>
+      <title>Cache-busting in C# without querystrings</title>
+      <link>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</link>
+      <pubDate>Mon, 14 Jul 2014 21:38:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</guid>
+      <description>A key benefit of working with the web (or more specifically http) is it’s native ability to cache. This can be ‘tuned’ to make websites extremely fast and slick, especially after initial page load.</description>
+    </item>
+    
+    <item>
+      <title>Dip your toe into a little SASS!</title>
+      <link>https://email-us.co.uk/dip-your-toe-into-a-little-sass/</link>
+      <pubDate>Thu, 22 May 2014 21:26:43 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/dip-your-toe-into-a-little-sass/</guid>
+      <description>Ok…I get the whole CSS pre-processor movement; I don’t need convincing of why it is so good. However, what I do need, is a justification to invest time into learning yet another technology!</description>
+    </item>
+    
+    <item>
+      <title>Schoolbase Rewards and Sanctions via email</title>
+      <link>https://email-us.co.uk/schoolbase-rewards-and-sanctions-via-email/</link>
+      <pubDate>Thu, 08 May 2014 10:04:30 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/schoolbase-rewards-and-sanctions-via-email/</guid>
+      <description>At St Mary’s Shaftesbury, one of the many additional functions we have built, to work alongside our Schoolbase MIS (Management Information System), is the automation of a weekly ‘Rewards and Sanctions’ report.</description>
+    </item>
+    
+    <item>
+      <title>Technically challenge your web designer!</title>
+      <link>https://email-us.co.uk/technically-challenge-your-web-designer/</link>
+      <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/technically-challenge-your-web-designer/</guid>
+      <description>I must confess to have slightly struggled with the title of this blog post, as I didn’t wish to be responsible for encouraging unnecessary complaints and animosity between clients and web designers!</description>
+    </item>
+    
+    <item>
+      <title>Presentation, Nerves and Videotape</title>
+      <link>https://email-us.co.uk/presentation-nerves-and-videotape/</link>
+      <pubDate>Fri, 28 Mar 2014 20:11:25 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/presentation-nerves-and-videotape/</guid>
+      <description>Recently, I had the privileged of being asked to give a ‘show and tell’ style presentation, at the Firefly Developer’s Day, held at Radley College.
+In truth, I received this invitation with a mixture of pride and anxiety – visions springing to mind of the Michael Bay ‘meltdown’ during his presentation at CES 2014!</description>
+    </item>
+    
+    <item>
+      <title>PowerShell to secure AD users RDP access</title>
+      <link>https://email-us.co.uk/powershell-to-secure-ad-users-rdp-access/</link>
+      <pubDate>Thu, 13 Feb 2014 20:42:36 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/powershell-to-secure-ad-users-rdp-access/</guid>
+      <description>It’s a sad fact that security can all too often be the poor relative in software and systems design (please note that this blog post is not intended to address system security per se; the OWASP website and / or security expert Troy Hunt’s blog, are good references for that topic).</description>
+    </item>
+    
+    <item>
+      <title>Schoolbase to create and populate AD groups</title>
+      <link>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</link>
+      <pubDate>Wed, 22 Jan 2014 11:52:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</guid>
+      <description>At St Mary’s we use Schoolbase from Furlong Solutions, for our MIS - we have done so for several years (indeed my understanding is that we were the second or third official school to have the system in production).</description>
+    </item>
+    
+    <item>
+      <title>Plotting earthquakes on a Firefly VLE page</title>
+      <link>https://email-us.co.uk/plotting-earthquakes-on-a-firefly-vle-page/</link>
+      <pubDate>Fri, 10 Jan 2014 11:49:19 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/plotting-earthquakes-on-a-firefly-vle-page/</guid>
+      <description>Like many technically minded people, I subscribe to a variety of IT focussed information sources (RSS Feeds, Newsletters etc); one such newsletter being &amp;ldquo;Powertip of the day&amp;rdquo; from Powershell.com.
+A recent “Powertip of the day” demonstrated how it was possible to query an online earthquake activity data resource, using PowerShell.</description>
+    </item>
+    
+    <item>
+      <title>Good enough? Don’t answer that!</title>
+      <link>https://email-us.co.uk/good-enough-dont-answer-that/</link>
+      <pubDate>Fri, 27 Dec 2013 17:34:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/good-enough-dont-answer-that/</guid>
+      <description>One of my favourite blog posts is “I&amp;rsquo;m a phony. Are you?” by Scott Hanselman. I was on holiday in France when I read this post, and it gave me a wonderful sense of relief - I highly encourage you to read it.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Firefly VLE online users feature</title>
+      <link>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</link>
+      <pubDate>Wed, 18 Dec 2013 23:44:05 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</guid>
+      <description>At St Mary&amp;rsquo;s Shaftesbury we use Firefly for our VLE. I won’t give you a sales pitch on Firefly, but suffice to say, that after a bit of a journey from Moodle through SharePoint we have rested at Firefly – quite simply, at this point in time (history has taught me that things can change!</description>
+    </item>
+    
+    <item>
+      <title>Using PowerShell to check all pages in a website</title>
+      <link>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</link>
+      <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</guid>
+      <description>Recently St Mary’s Shaftesbury had a new website built (I would like to register, that whilst I was actively involved in the project management, I did not design this website).</description>
+    </item>
+    
+    <item>
+      <title>Bin the portfolio and blog instead!</title>
+      <link>https://email-us.co.uk/bin-the-portfolio-and-blog-instead/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/bin-the-portfolio-and-blog-instead/</guid>
+      <description>Frankly, I love IT, and web development in particular. I also happen to be exceptionally fortunate to work as an ICT Systems Manager, for a wonderful employer (St Mary&amp;rsquo;s Shaftesbury) with a great boss (@pearcejim) alongside excellent, appreciative colleagues – the surrounding environment, is also quite heavenly – trust me, it beats working on an industrial estate, just take a look!</description>
+    </item>
+    
+    <item>
+      <title>To CMS or not to CMS?</title>
+      <link>https://email-us.co.uk/to-cms-or-not-to-cms/</link>
+      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/to-cms-or-not-to-cms/</guid>
+      <description>OK, the time has come for a website refresh – it’s something that I like to try and do annually (well, I say annually, what I really mean is that I did it last year).</description>
+    </item>
+    
+  </channel>
+</rss>

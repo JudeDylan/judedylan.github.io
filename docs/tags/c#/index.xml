@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/c#/</link>
+    <description>Recent content in C# on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 19 Sep 2015 12:58:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure a webpage without a logon?</title>
+      <link>https://email-us.co.uk/secure-a-webpage-without-a-logon/</link>
+      <pubDate>Sat, 19 Sep 2015 12:58:34 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/secure-a-webpage-without-a-logon/</guid>
+      <description>Secure access to a webpage, without the need for a logon, can often be viewed as a bit of a holy grail solution.
+Recently, I introduced a frictionless (logon free) way of providing secure(ish) access to some very basic web services.</description>
+    </item>
+    
+    <item>
+      <title>Cache-busting in C# without querystrings</title>
+      <link>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</link>
+      <pubDate>Mon, 14 Jul 2014 21:38:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</guid>
+      <description>A key benefit of working with the web (or more specifically http) is it’s native ability to cache. This can be ‘tuned’ to make websites extremely fast and slick, especially after initial page load.</description>
+    </item>
+    
+    <item>
+      <title>Schoolbase to create and populate AD groups</title>
+      <link>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</link>
+      <pubDate>Wed, 22 Jan 2014 11:52:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</guid>
+      <description>At St Mary’s we use Schoolbase from Furlong Solutions, for our MIS - we have done so for several years (indeed my understanding is that we were the second or third official school to have the system in production).</description>
+    </item>
+    
+    <item>
+      <title>Creating a Firefly VLE online users feature</title>
+      <link>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</link>
+      <pubDate>Wed, 18 Dec 2013 23:44:05 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</guid>
+      <description>At St Mary&amp;rsquo;s Shaftesbury we use Firefly for our VLE. I won’t give you a sales pitch on Firefly, but suffice to say, that after a bit of a journey from Moodle through SharePoint we have rested at Firefly – quite simply, at this point in time (history has taught me that things can change!</description>
+    </item>
+    
+    <item>
+      <title>To CMS or not to CMS?</title>
+      <link>https://email-us.co.uk/to-cms-or-not-to-cms/</link>
+      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/to-cms-or-not-to-cms/</guid>
+      <description>OK, the time has come for a website refresh – it’s something that I like to try and do annually (well, I say annually, what I really mean is that I did it last year).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UniFi on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/unifi/</link>
+    <description>Recent content in UniFi on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 02 Jan 2015 12:15:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/unifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tracking devices in UniFi WiFi</title>
+      <link>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</link>
+      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</guid>
+      <description>Several years ago, we migrated from a Cisco Wi-Fi infrastructure to a UniFi setup.
+UniFi (from Ubiquiti Networks) offer a pretty remarkable WiFi solution, especially when it comes down to cost.</description>
+    </item>
+    
+  </channel>
+</rss>

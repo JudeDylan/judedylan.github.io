@@ -1,0 +1,25 @@
+{
+  "name": "ooob",
+  "version": "1.0.0",
+  "description": "ooob hugo",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normansolutions/OOOB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normansolutions/OOOB/issues"
+  },
+  "homepage": "https://github.com/normansolutions/OOOB#readme",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "autoprefixer": "^9.8.6",
+    "cssnano": "^4.1.10",
+    "purgecss": "^1.4.0"
+  }
+}

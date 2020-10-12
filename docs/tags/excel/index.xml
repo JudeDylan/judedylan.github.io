@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/excel/</link>
+    <description>Recent content in Excel on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 28 Jun 2015 17:03:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Excel Macro to manipulate CAT data</title>
+      <link>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</link>
+      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</guid>
+      <description>Recently, I was asked whether I could provide some assistance with manipulating data, that had been exported from a CAT results test. The problem, had slowly been driving a colleague of mine, very slightly crazy!</description>
+    </item>
+    
+  </channel>
+</rss>

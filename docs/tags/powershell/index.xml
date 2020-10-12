@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powershell on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/powershell/</link>
+    <description>Recent content in Powershell on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 28 Jun 2019 09:41:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to populate an O365 DG from a Security Group</title>
+      <link>https://email-us.co.uk/how-to-populate-an-o365-dg-from-a-security-group/</link>
+      <pubDate>Fri, 28 Jun 2019 09:41:46 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-populate-an-o365-dg-from-a-security-group/</guid>
+      <description>Having fully migrated our on-prem Exchange to Exchange Online, there were a few little gotchas along the way that we had to contend with - which was to be expected.</description>
+    </item>
+    
+    <item>
+      <title>How to delete an email from all Exchange mailboxes</title>
+      <link>https://email-us.co.uk/how-to-delete-an-email-from-all-exchange-mailboxes/</link>
+      <pubDate>Tue, 16 Oct 2018 15:45:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-delete-an-email-from-all-exchange-mailboxes/</guid>
+      <description>It&amp;rsquo;s not uncommon to receive unwanted emails which have managed to work their way through the array of filtering systems in production. Recently our organisation received such an email - a classic phishing email sent to multiple end user accounts.</description>
+    </item>
+    
+    <item>
+      <title>Encourage those Windows to restart!</title>
+      <link>https://email-us.co.uk/encourage-those-windows-to-restart/</link>
+      <pubDate>Mon, 01 Oct 2018 19:47:29 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/encourage-those-windows-to-restart/</guid>
+      <description>A common issue with supporting a primarily Windows based user body, is that thanks to the &amp;ldquo;always on&amp;rdquo; expectation emboldened by smartphones and tablets, it can be a constant battle to try and encourage end users to restart their computers with some degree of regularity - yes IT friends, you know exactly what I mean!</description>
+    </item>
+    
+    <item>
+      <title>PowerShell to disable Clutter in Office 365</title>
+      <link>https://email-us.co.uk/powershell-to-disable-clutter-in-office-365/</link>
+      <pubDate>Tue, 08 Mar 2016 18:19:57 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/powershell-to-disable-clutter-in-office-365/</guid>
+      <description>Most users of Office 365 will no doubt be aware of the Clutter folder; for the most part this Clutter folder works pretty well.
+ I’m not intending to go into the algorithmic processes of how the Clutter folder works, in this blog post - even if I could!</description>
+    </item>
+    
+    <item>
+      <title>Locked out user email notification</title>
+      <link>https://email-us.co.uk/locked-out-user-email-notification/</link>
+      <pubDate>Sat, 20 Jun 2015 15:11:29 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/locked-out-user-email-notification/</guid>
+      <description>It recently occurred to me, that whilst my current full-time position is an IT Systems Manager, the majority of my blog posts thus far, have been more web centric – which is great, as I love the web and web technologies!</description>
+    </item>
+    
+    <item>
+      <title>Stamp an iSAMS report with the current username</title>
+      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
+      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
+ Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>PowerShell to secure AD users RDP access</title>
+      <link>https://email-us.co.uk/powershell-to-secure-ad-users-rdp-access/</link>
+      <pubDate>Thu, 13 Feb 2014 20:42:36 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/powershell-to-secure-ad-users-rdp-access/</guid>
+      <description>It’s a sad fact that security can all too often be the poor relative in software and systems design (please note that this blog post is not intended to address system security per se; the OWASP website and / or security expert Troy Hunt’s blog, are good references for that topic).</description>
+    </item>
+    
+    <item>
+      <title>Using PowerShell to check all pages in a website</title>
+      <link>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</link>
+      <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</guid>
+      <description>Recently St Mary’s Shaftesbury had a new website built (I would like to register, that whilst I was actively involved in the project management, I did not design this website).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/blog/</link>
+    <description>Recent content in Blog on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 25 Feb 2015 20:39:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Podcast University!</title>
+      <link>https://email-us.co.uk/welcome-to-podcast-university/</link>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/welcome-to-podcast-university/</guid>
+      <description>Recently, a very good friend of mine (@richieclarkie) decided to return to the IT industry after a 15 year absence.
+ Clearly a 15 year hiatus, is significant in any industry, but especially pertaining to IT, it is arguably exceptional.</description>
+    </item>
+    
+    <item>
+      <title>Technically challenge your web designer!</title>
+      <link>https://email-us.co.uk/technically-challenge-your-web-designer/</link>
+      <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/technically-challenge-your-web-designer/</guid>
+      <description>I must confess to have slightly struggled with the title of this blog post, as I didn’t wish to be responsible for encouraging unnecessary complaints and animosity between clients and web designers!</description>
+    </item>
+    
+    <item>
+      <title>Good enough? Don’t answer that!</title>
+      <link>https://email-us.co.uk/good-enough-dont-answer-that/</link>
+      <pubDate>Fri, 27 Dec 2013 17:34:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/good-enough-dont-answer-that/</guid>
+      <description>One of my favourite blog posts is “I&amp;rsquo;m a phony. Are you?” by Scott Hanselman. I was on holiday in France when I read this post, and it gave me a wonderful sense of relief - I highly encourage you to read it.</description>
+    </item>
+    
+    <item>
+      <title>Bin the portfolio and blog instead!</title>
+      <link>https://email-us.co.uk/bin-the-portfolio-and-blog-instead/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/bin-the-portfolio-and-blog-instead/</guid>
+      <description>Frankly, I love IT, and web development in particular. I also happen to be exceptionally fortunate to work as an ICT Systems Manager, for a wonderful employer (St Mary&amp;rsquo;s Shaftesbury) with a great boss (@pearcejim) alongside excellent, appreciative colleagues – the surrounding environment, is also quite heavenly – trust me, it beats working on an industrial estate, just take a look!</description>
+    </item>
+    
+    <item>
+      <title>To CMS or not to CMS?</title>
+      <link>https://email-us.co.uk/to-cms-or-not-to-cms/</link>
+      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/to-cms-or-not-to-cms/</guid>
+      <description>OK, the time has come for a website refresh – it’s something that I like to try and do annually (well, I say annually, what I really mean is that I did it last year).</description>
+    </item>
+    
+  </channel>
+</rss>

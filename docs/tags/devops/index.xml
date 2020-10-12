@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/devops/</link>
+    <description>Recent content in DevOps on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 29 Nov 2016 16:32:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security should be a first class citizen</title>
+      <link>https://email-us.co.uk/security-should-be-a-first-class-citizen/</link>
+      <pubDate>Tue, 29 Nov 2016 16:32:17 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/security-should-be-a-first-class-citizen/</guid>
+      <description>Let’s face it, information security is important. With more and more data being stored and accessed via the internet, we are becoming increasingly reliant on “third parties” to secure our personal data responsibly.</description>
+    </item>
+    
+    <item>
+      <title>Locked out user email notification</title>
+      <link>https://email-us.co.uk/locked-out-user-email-notification/</link>
+      <pubDate>Sat, 20 Jun 2015 15:11:29 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/locked-out-user-email-notification/</guid>
+      <description>It recently occurred to me, that whilst my current full-time position is an IT Systems Manager, the majority of my blog posts thus far, have been more web centric – which is great, as I love the web and web technologies!</description>
+    </item>
+    
+    <item>
+      <title>A blend of style and performance</title>
+      <link>https://email-us.co.uk/a-blend-of-style-and-performance/</link>
+      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/a-blend-of-style-and-performance/</guid>
+      <description>Recently, I had the privilege of designing and building the Wylye Valley Art Trail website. The 2015 trail consists of 75 venues, and in-excess of 300 artists – I’m sure you’ll agree, that’s a reasonable size!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Podcast University!</title>
+      <link>https://email-us.co.uk/welcome-to-podcast-university/</link>
+      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/welcome-to-podcast-university/</guid>
+      <description>Recently, a very good friend of mine (@richieclarkie) decided to return to the IT industry after a 15 year absence.
+ Clearly a 15 year hiatus, is significant in any industry, but especially pertaining to IT, it is arguably exceptional.</description>
+    </item>
+    
+    <item>
+      <title>Tracking devices in UniFi WiFi</title>
+      <link>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</link>
+      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</guid>
+      <description>Several years ago, we migrated from a Cisco Wi-Fi infrastructure to a UniFi setup.
+UniFi (from Ubiquiti Networks) offer a pretty remarkable WiFi solution, especially when it comes down to cost.</description>
+    </item>
+    
+    <item>
+      <title>PowerShell to secure AD users RDP access</title>
+      <link>https://email-us.co.uk/powershell-to-secure-ad-users-rdp-access/</link>
+      <pubDate>Thu, 13 Feb 2014 20:42:36 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/powershell-to-secure-ad-users-rdp-access/</guid>
+      <description>It’s a sad fact that security can all too often be the poor relative in software and systems design (please note that this blog post is not intended to address system security per se; the OWASP website and / or security expert Troy Hunt’s blog, are good references for that topic).</description>
+    </item>
+    
+    <item>
+      <title>Schoolbase to create and populate AD groups</title>
+      <link>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</link>
+      <pubDate>Wed, 22 Jan 2014 11:52:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</guid>
+      <description>At St Mary’s we use Schoolbase from Furlong Solutions, for our MIS - we have done so for several years (indeed my understanding is that we were the second or third official school to have the system in production).</description>
+    </item>
+    
+    <item>
+      <title>Using PowerShell to check all pages in a website</title>
+      <link>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</link>
+      <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</guid>
+      <description>Recently St Mary’s Shaftesbury had a new website built (I would like to register, that whilst I was actively involved in the project management, I did not design this website).</description>
+    </item>
+    
+  </channel>
+</rss>

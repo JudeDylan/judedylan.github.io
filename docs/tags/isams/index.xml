@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iSAMS on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/isams/</link>
+    <description>Recent content in iSAMS on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 19 Feb 2020 17:31:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/isams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Power BI &#43; iSAMS API</title>
+      <link>https://email-us.co.uk/power-bi-and-isams-api/</link>
+      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/power-bi-and-isams-api/</guid>
+      <description>Like many people, I&amp;rsquo;ve tinkered with Power BI over the years but have never really dug deep into the weeds; the same can also be said for the iSAMS REST API.</description>
+    </item>
+    
+    <item>
+      <title>How to get the latest student photo from iSAMS</title>
+      <link>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</link>
+      <pubDate>Sun, 22 Oct 2017 15:59:57 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/how-to-get-the-latest-student-photo-from-isams/</guid>
+      <description>It’s been eight months since my last blog post, having taken on a new job, been on the receiving end of a full-on enterprise ransomware attack (that wasn’t nice!) and quite frankly experiencing one heck of a baptism of fire - I felt it was time do write a quick blog post tip!</description>
+    </item>
+    
+    <item>
+      <title>Stamp an iSAMS report with the current username</title>
+      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
+      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
+ Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
+    </item>
+    
+  </channel>
+</rss>

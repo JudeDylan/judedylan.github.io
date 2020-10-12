@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firefly on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/firefly/</link>
+    <description>Recent content in Firefly on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 28 Mar 2014 20:11:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/firefly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation, Nerves and Videotape</title>
+      <link>https://email-us.co.uk/presentation-nerves-and-videotape/</link>
+      <pubDate>Fri, 28 Mar 2014 20:11:25 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/presentation-nerves-and-videotape/</guid>
+      <description>Recently, I had the privileged of being asked to give a ‘show and tell’ style presentation, at the Firefly Developer’s Day, held at Radley College.
+In truth, I received this invitation with a mixture of pride and anxiety – visions springing to mind of the Michael Bay ‘meltdown’ during his presentation at CES 2014!</description>
+    </item>
+    
+    <item>
+      <title>Plotting earthquakes on a Firefly VLE page</title>
+      <link>https://email-us.co.uk/plotting-earthquakes-on-a-firefly-vle-page/</link>
+      <pubDate>Fri, 10 Jan 2014 11:49:19 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/plotting-earthquakes-on-a-firefly-vle-page/</guid>
+      <description>Like many technically minded people, I subscribe to a variety of IT focussed information sources (RSS Feeds, Newsletters etc); one such newsletter being &amp;ldquo;Powertip of the day&amp;rdquo; from Powershell.com.
+A recent “Powertip of the day” demonstrated how it was possible to query an online earthquake activity data resource, using PowerShell.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Firefly VLE online users feature</title>
+      <link>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</link>
+      <pubDate>Wed, 18 Dec 2013 23:44:05 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</guid>
+      <description>At St Mary&amp;rsquo;s Shaftesbury we use Firefly for our VLE. I won’t give you a sales pitch on Firefly, but suffice to say, that after a bit of a journey from Moodle through SharePoint we have rested at Firefly – quite simply, at this point in time (history has taught me that things can change!</description>
+    </item>
+    
+  </channel>
+</rss>

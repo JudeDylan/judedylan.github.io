@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIS on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/mis/</link>
+    <description>Recent content in MIS on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 19 Feb 2020 17:31:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/mis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Power BI &#43; iSAMS API</title>
+      <link>https://email-us.co.uk/power-bi-and-isams-api/</link>
+      <pubDate>Wed, 19 Feb 2020 17:31:17 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/power-bi-and-isams-api/</guid>
+      <description>Like many people, I&amp;rsquo;ve tinkered with Power BI over the years but have never really dug deep into the weeds; the same can also be said for the iSAMS REST API.</description>
+    </item>
+    
+    <item>
+      <title>Excel Macro to manipulate CAT data</title>
+      <link>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</link>
+      <pubDate>Sun, 28 Jun 2015 17:03:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/excel-macro-to-manipulate-cat-data/</guid>
+      <description>Recently, I was asked whether I could provide some assistance with manipulating data, that had been exported from a CAT results test. The problem, had slowly been driving a colleague of mine, very slightly crazy!</description>
+    </item>
+    
+    <item>
+      <title>Stamp an iSAMS report with the current username</title>
+      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
+      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
+ Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>Schoolbase Rewards and Sanctions via email</title>
+      <link>https://email-us.co.uk/schoolbase-rewards-and-sanctions-via-email/</link>
+      <pubDate>Thu, 08 May 2014 10:04:30 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/schoolbase-rewards-and-sanctions-via-email/</guid>
+      <description>At St Mary’s Shaftesbury, one of the many additional functions we have built, to work alongside our Schoolbase MIS (Management Information System), is the automation of a weekly ‘Rewards and Sanctions’ report.</description>
+    </item>
+    
+    <item>
+      <title>Schoolbase to create and populate AD groups</title>
+      <link>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</link>
+      <pubDate>Wed, 22 Jan 2014 11:52:12 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/schoolbase-to-create-and-populate-ad-groups/</guid>
+      <description>At St Mary’s we use Schoolbase from Furlong Solutions, for our MIS - we have done so for several years (indeed my understanding is that we were the second or third official school to have the system in production).</description>
+    </item>
+    
+  </channel>
+</rss>

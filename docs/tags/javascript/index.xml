@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/javascript/</link>
+    <description>Recent content in JavaScript on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 06 Apr 2015 11:56:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A blend of style and performance</title>
+      <link>https://email-us.co.uk/a-blend-of-style-and-performance/</link>
+      <pubDate>Mon, 06 Apr 2015 11:56:06 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/a-blend-of-style-and-performance/</guid>
+      <description>Recently, I had the privilege of designing and building the Wylye Valley Art Trail website. The 2015 trail consists of 75 venues, and in-excess of 300 artists – I’m sure you’ll agree, that’s a reasonable size!</description>
+    </item>
+    
+    <item>
+      <title>Tracking devices in UniFi WiFi</title>
+      <link>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</link>
+      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</guid>
+      <description>Several years ago, we migrated from a Cisco Wi-Fi infrastructure to a UniFi setup.
+UniFi (from Ubiquiti Networks) offer a pretty remarkable WiFi solution, especially when it comes down to cost.</description>
+    </item>
+    
+    <item>
+      <title>Stamp an iSAMS report with the current username</title>
+      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
+      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
+      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
+ Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>Happy with a hack?</title>
+      <link>https://email-us.co.uk/happy-with-a-hack/</link>
+      <pubDate>Fri, 03 Oct 2014 21:37:41 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/happy-with-a-hack/</guid>
+      <description>Most software developers at some point, will almost certainly encounter the need to hack together a solution.
+To quote Wikipedia, the term hack, for the purposes of this blog post is:</description>
+    </item>
+    
+    <item>
+      <title>Cache-busting in C# without querystrings</title>
+      <link>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</link>
+      <pubDate>Mon, 14 Jul 2014 21:38:20 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/cache-busting-in-c-without-querystrings/</guid>
+      <description>A key benefit of working with the web (or more specifically http) is it’s native ability to cache. This can be ‘tuned’ to make websites extremely fast and slick, especially after initial page load.</description>
+    </item>
+    
+    <item>
+      <title>Technically challenge your web designer!</title>
+      <link>https://email-us.co.uk/technically-challenge-your-web-designer/</link>
+      <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/technically-challenge-your-web-designer/</guid>
+      <description>I must confess to have slightly struggled with the title of this blog post, as I didn’t wish to be responsible for encouraging unnecessary complaints and animosity between clients and web designers!</description>
+    </item>
+    
+    <item>
+      <title>Plotting earthquakes on a Firefly VLE page</title>
+      <link>https://email-us.co.uk/plotting-earthquakes-on-a-firefly-vle-page/</link>
+      <pubDate>Fri, 10 Jan 2014 11:49:19 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/plotting-earthquakes-on-a-firefly-vle-page/</guid>
+      <description>Like many technically minded people, I subscribe to a variety of IT focussed information sources (RSS Feeds, Newsletters etc); one such newsletter being &amp;ldquo;Powertip of the day&amp;rdquo; from Powershell.com.
+A recent “Powertip of the day” demonstrated how it was possible to query an online earthquake activity data resource, using PowerShell.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Firefly VLE online users feature</title>
+      <link>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</link>
+      <pubDate>Wed, 18 Dec 2013 23:44:05 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/creating-a-firefly-vle-online-users-feature/</guid>
+      <description>At St Mary&amp;rsquo;s Shaftesbury we use Firefly for our VLE. I won’t give you a sales pitch on Firefly, but suffice to say, that after a bit of a journey from Moodle through SharePoint we have rested at Firefly – quite simply, at this point in time (history has taught me that things can change!</description>
+    </item>
+    
+  </channel>
+</rss>

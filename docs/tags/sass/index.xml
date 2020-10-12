@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SASS on NS News and Views</title>
+    <link>https://email-us.co.uk/tags/sass/</link>
+    <description>Recent content in SASS on NS News and Views</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 22 May 2014 21:26:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://email-us.co.uk/tags/sass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dip your toe into a little SASS!</title>
+      <link>https://email-us.co.uk/dip-your-toe-into-a-little-sass/</link>
+      <pubDate>Thu, 22 May 2014 21:26:43 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/dip-your-toe-into-a-little-sass/</guid>
+      <description>Ok…I get the whole CSS pre-processor movement; I don’t need convincing of why it is so good. However, what I do need, is a justification to invest time into learning yet another technology!</description>
+    </item>
+    
+  </channel>
+</rss>
