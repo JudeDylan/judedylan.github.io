@@ -1,90 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NS News and Views</title>
+    <title>Jude Dylan Music</title>
     <link>https://email-us.co.uk/</link>
-    <description>Recent content on NS News and Views</description>
+    <description>Recent content on Jude Dylan Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 13 Oct 2018 08:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 19:33:26 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>YouTube downloading using WSL</title>
-      <link>https://email-us.co.uk/youtube-downloading-using-wsl/</link>
-      <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/youtube-downloading-using-wsl/</guid>
-      <description>To be honest, as I&amp;rsquo;m sure any right-minded individual would agree, downloading videos from YouTube for personal gain is wrong. However, there are occasions when it is arguably reasonable and possibly even legitimate to do such a thing.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Podcast University!</title>
-      <link>https://email-us.co.uk/welcome-to-podcast-university/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/welcome-to-podcast-university/</guid>
-      <description>Recently, a very good friend of mine (@richieclarkie) decided to return to the IT industry after a 15 year absence.
- Clearly a 15 year hiatus, is significant in any industry, but especially pertaining to IT, it is arguably exceptional.</description>
-    </item>
-    
-    <item>
-      <title>Tracking devices in UniFi WiFi</title>
-      <link>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</link>
-      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</guid>
-      <description>Several years ago, we migrated from a Cisco Wi-Fi infrastructure to a UniFi setup.
-UniFi (from Ubiquiti Networks) offer a pretty remarkable WiFi solution, especially when it comes down to cost.</description>
-    </item>
-    
-    <item>
-      <title>Stamp an iSAMS report with the current username</title>
-      <link>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</link>
-      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</guid>
-      <description>During the summer of 2014, we migrated the St Mary’s Shaftesbury MIS (Management Information System) from Schoolbase to iSAMS.
- Please note, that the reasons for instigating this major system change, and the processes involved (political &amp;amp; technical), are not covered in this blog post.</description>
-    </item>
-    
-    <item>
-      <title>Technically challenge your web designer!</title>
-      <link>https://email-us.co.uk/technically-challenge-your-web-designer/</link>
-      <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/technically-challenge-your-web-designer/</guid>
-      <description>I must confess to have slightly struggled with the title of this blog post, as I didn’t wish to be responsible for encouraging unnecessary complaints and animosity between clients and web designers!</description>
-    </item>
-    
-    <item>
-      <title>Using PowerShell to check all pages in a website</title>
-      <link>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</link>
-      <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</guid>
-      <description>Recently St Mary’s Shaftesbury had a new website built (I would like to register, that whilst I was actively involved in the project management, I did not design this website).</description>
-    </item>
-    
-    <item>
-      <title>To CMS or not to CMS?</title>
-      <link>https://email-us.co.uk/to-cms-or-not-to-cms/</link>
-      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/to-cms-or-not-to-cms/</guid>
-      <description>OK, the time has come for a website refresh – it’s something that I like to try and do annually (well, I say annually, what I really mean is that I did it last year).</description>
-    </item>
-    
-    <item>
-      <title>Let It Be</title>
+      <title>Let It Be | Beatles</title>
       <link>https://email-us.co.uk/let-it-be/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/let-it-be/</guid>
       <description>All instruments recorded by me (big ups to my mum for the backing vocals though) (:
 I hope you all like, I put a lot of effort into this, and I know it is far from Beatles quality but I have definitely progressed in terms of my own recording techniques and experimentation.</description>
+    </item>
+    
+    <item>
+      <title>Sappy | Nirvana</title>
+      <link>https://email-us.co.uk/sappy/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/sappy/</guid>
+      <description>A cover of the b-side Sappy, by Nirvana. I understand the drumming is a bit out in places but hey I tried. This is my first upload to YouTube so hope you like :)</description>
     </item>
     
   </channel>

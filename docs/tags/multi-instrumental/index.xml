@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-Instrumental on NS News and Views</title>
+    <title>Multi-Instrumental on Jude Dylan Music</title>
     <link>https://email-us.co.uk/tags/multi-instrumental/</link>
-    <description>Recent content in Multi-Instrumental on NS News and Views</description>
+    <description>Recent content in Multi-Instrumental on Jude Dylan Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
+    <lastBuildDate>Sun, 06 Sep 2020 19:33:26 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/multi-instrumental/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Let It Be</title>
+      <title>Let It Be | Beatles</title>
       <link>https://email-us.co.uk/let-it-be/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/let-it-be/</guid>
       <description>All instruments recorded by me (big ups to my mum for the backing vocals though) (:
 I hope you all like, I put a lot of effort into this, and I know it is far from Beatles quality but I have definitely progressed in terms of my own recording techniques and experimentation.</description>
+    </item>
+    
+    <item>
+      <title>Sappy | Nirvana</title>
+      <link>https://email-us.co.uk/sappy/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/sappy/</guid>
+      <description>A cover of the b-side Sappy, by Nirvana. I understand the drumming is a bit out in places but hey I tried. This is my first upload to YouTube so hope you like :)</description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Let It Be"
-date: 2020-09-6 19:33:26
+title: "Let It Be | Beatles"
+date: 2020-09-06 19:33:26
 type: post
 tags:
   - Beatles
@@ -16,3 +16,4 @@ I hope you all like, I put a lot of effort into this, and I know it is far from 
 I could have done one of those fancy videos showing me playing everything, but oh well maybe next time :)
 
 {{< youtube 2vV8TrdnB_0 >}}
+<br/>

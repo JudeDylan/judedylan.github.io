@@ -3,158 +3,47 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-        <loc>https://email-us.co.uk/tags/linux/</loc>
-        <lastmod>2018-10-13T08:01:59+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/</loc>
-        <lastmod>2018-10-13T08:01:59+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/quicktip/</loc>
-        <lastmod>2018-10-13T08:01:59+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/</loc>
-        <lastmod>2018-10-13T08:01:59+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/wsl/</loc>
-        <lastmod>2018-10-13T08:01:59+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/youtube-downloading-using-wsl/</loc>
-        <lastmod>2018-10-13T08:01:59+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/blog/</loc>
-        <lastmod>2015-02-25T20:39:25+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/devops/</loc>
-        <lastmod>2015-02-25T20:39:25+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/rambling/</loc>
-        <lastmod>2015-02-25T20:39:25+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/sysadmin/</loc>
-        <lastmod>2015-02-25T20:39:25+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/website/</loc>
-        <lastmod>2015-02-25T20:39:25+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/welcome-to-podcast-university/</loc>
-        <lastmod>2015-02-25T20:39:25+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/javascript/</loc>
-        <lastmod>2015-01-02T12:15:14+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tracking-devices-in-unifi-wifi/</loc>
-        <lastmod>2015-01-02T12:15:14+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/unifi/</loc>
-        <lastmod>2015-01-02T12:15:14+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/isams/</loc>
-        <lastmod>2014-11-30T08:28:45+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/mis/</loc>
-        <lastmod>2014-11-30T08:28:45+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/powershell/</loc>
-        <lastmod>2014-11-30T08:28:45+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/ssrs/</loc>
-        <lastmod>2014-11-30T08:28:45+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/stamp-an-isams-report-with-the-current-username/</loc>
-        <lastmod>2014-11-30T08:28:45+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/cms/</loc>
-        <lastmod>2014-04-29T20:46:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/technically-challenge-your-web-designer/</loc>
-        <lastmod>2014-04-29T20:46:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/script/</loc>
-        <lastmod>2013-12-17T08:49:20+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/using-powershell-to-check-all-pages-in-a-website/</loc>
-        <lastmod>2013-12-17T08:49:20+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/c#/</loc>
-        <lastmod>2013-12-13T22:44:12+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/tags/razor/</loc>
-        <lastmod>2013-12-13T22:44:12+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/to-cms-or-not-to-cms/</loc>
-        <lastmod>2013-12-13T22:44:12+00:00</lastmod>
-    </url>
-  
-    <url>
         <loc>https://email-us.co.uk/tags/beatles/</loc>
-    </url>
-  
-    <url>
-        <loc>https://email-us.co.uk/categories/</loc>
+        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
     </url>
   
     <url>
         <loc>https://email-us.co.uk/tags/cover/</loc>
+        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
+    </url>
+  
+    <url>
+        <loc>https://email-us.co.uk/</loc>
+        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
     </url>
   
     <url>
         <loc>https://email-us.co.uk/let-it-be/</loc>
+        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
     </url>
   
     <url>
         <loc>https://email-us.co.uk/tags/multi-instrumental/</loc>
+        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
+    </url>
+  
+    <url>
+        <loc>https://email-us.co.uk/tags/</loc>
+        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
+    </url>
+  
+    <url>
+        <loc>https://email-us.co.uk/tags/nirvana/</loc>
+        <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+        <loc>https://email-us.co.uk/sappy/</loc>
+        <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+        <loc>https://email-us.co.uk/categories/</loc>
     </url>
   
 </urlset>

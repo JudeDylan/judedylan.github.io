@@ -1,182 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on NS News and Views</title>
+    <title>Tags on Jude Dylan Music</title>
     <link>https://email-us.co.uk/tags/</link>
-    <description>Recent content in Tags on NS News and Views</description>
+    <description>Recent content in Tags on Jude Dylan Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 13 Oct 2018 08:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 19:33:26 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Linux</title>
-      <link>https://email-us.co.uk/tags/linux/</link>
-      <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quicktip</title>
-      <link>https://email-us.co.uk/tags/quicktip/</link>
-      <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/quicktip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WSL</title>
-      <link>https://email-us.co.uk/tags/wsl/</link>
-      <pubDate>Sat, 13 Oct 2018 08:01:59 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/wsl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://email-us.co.uk/tags/blog/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://email-us.co.uk/tags/devops/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rambling</title>
-      <link>https://email-us.co.uk/tags/rambling/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/rambling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SysAdmin</title>
-      <link>https://email-us.co.uk/tags/sysadmin/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/sysadmin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>https://email-us.co.uk/tags/website/</link>
-      <pubDate>Wed, 25 Feb 2015 20:39:25 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://email-us.co.uk/tags/javascript/</link>
-      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UniFi</title>
-      <link>https://email-us.co.uk/tags/unifi/</link>
-      <pubDate>Fri, 02 Jan 2015 12:15:14 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/unifi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iSAMS</title>
-      <link>https://email-us.co.uk/tags/isams/</link>
-      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/isams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIS</title>
-      <link>https://email-us.co.uk/tags/mis/</link>
-      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/mis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerShell</title>
-      <link>https://email-us.co.uk/tags/powershell/</link>
-      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/powershell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SSRS</title>
-      <link>https://email-us.co.uk/tags/ssrs/</link>
-      <pubDate>Sun, 30 Nov 2014 08:28:45 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/ssrs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CMS</title>
-      <link>https://email-us.co.uk/tags/cms/</link>
-      <pubDate>Tue, 29 Apr 2014 20:46:26 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/cms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Script</title>
-      <link>https://email-us.co.uk/tags/script/</link>
-      <pubDate>Tue, 17 Dec 2013 08:49:20 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/script/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>https://email-us.co.uk/tags/c#/</link>
-      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/c#/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Razor</title>
-      <link>https://email-us.co.uk/tags/razor/</link>
-      <pubDate>Fri, 13 Dec 2013 22:44:12 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/razor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Beatles</title>
       <link>https://email-us.co.uk/tags/beatles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/beatles/</guid>
       <description></description>
@@ -185,7 +23,7 @@
     <item>
       <title>Cover</title>
       <link>https://email-us.co.uk/tags/cover/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/cover/</guid>
       <description></description>
@@ -194,9 +32,18 @@
     <item>
       <title>Multi-Instrumental</title>
       <link>https://email-us.co.uk/tags/multi-instrumental/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/multi-instrumental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nirvana</title>
+      <link>https://email-us.co.uk/tags/nirvana/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/nirvana/</guid>
       <description></description>
     </item>
     
