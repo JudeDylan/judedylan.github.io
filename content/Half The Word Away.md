@@ -11,7 +11,7 @@ tags:
 
 A cover of Oasis' "Half the World Away".
 
-I recorded this a little while ago.
+I recorded this a little while ago, and the quality is nowhere near as good as it could have been, however I thought I'd still upload it.
 
 {{< youtube NceedncGIu0 >}}
 <br/>
