@@ -6,24 +6,15 @@
     <description>Recent content in Tags on Jude Dylan Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 06 Sep 2020 19:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 19:33:26 +0000</lastBuildDate>
     
 	<atom:link href="https://email-us.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Beatles</title>
-      <link>https://email-us.co.uk/tags/beatles/</link>
-      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
-      
-      <guid>https://email-us.co.uk/tags/beatles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cover</title>
       <link>https://email-us.co.uk/tags/cover/</link>
-      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/cover/</guid>
       <description></description>
@@ -32,7 +23,7 @@
     <item>
       <title>Multi-Instrumental</title>
       <link>https://email-us.co.uk/tags/multi-instrumental/</link>
-      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/multi-instrumental/</guid>
       <description></description>
@@ -41,9 +32,18 @@
     <item>
       <title>Oasis</title>
       <link>https://email-us.co.uk/tags/oasis/</link>
-      <pubDate>Wed, 15 Apr 2020 19:33:26 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2020 19:33:26 +0000</pubDate>
       
       <guid>https://email-us.co.uk/tags/oasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beatles</title>
+      <link>https://email-us.co.uk/tags/beatles/</link>
+      <pubDate>Sun, 06 Sep 2020 19:33:26 +0000</pubDate>
+      
+      <guid>https://email-us.co.uk/tags/beatles/</guid>
       <description></description>
     </item>
     
