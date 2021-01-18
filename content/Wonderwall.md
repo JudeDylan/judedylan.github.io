@@ -11,7 +11,9 @@ tags:
 
 A cover of this classic from Oasis.
 
-Track was recorded and edited by me, as well as the instruments, and the amazing Josh is on vocals. 
+Track was recorded and edited by me, as well as the instruments, and the amazing Josh is on vocals.
+
+This took me a fair while to edit, however I'm quite proud of the outcome, hope whoever listens likes it!
 
 {{< youtube 8yun6Zf3VCE >}}
 <br/>
