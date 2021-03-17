@@ -1,7 +1,7 @@
-baseURL = "https://email-us.co.uk"
+baseURL = "https://judedylan.co.uk"
 languageCode = "en-uk"
 title = "Jude Dylan Music"
 publishDir = "docs"
 staticDir = ["static"]
-paginate = 10
-summaryLength = 30
+paginate = 15
+summaryLength = 15

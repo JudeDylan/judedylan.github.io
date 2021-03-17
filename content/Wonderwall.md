@@ -9,7 +9,7 @@ tags:
   - Multi-Instrumental
 ---
 
-A cover of this classic from Oasis.
+This was a joint project - a cover of the Oasis classic.
 
 Track was recorded and edited by me, as well as the instruments, and the amazing Josh is on vocals.
 

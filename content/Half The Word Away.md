@@ -9,7 +9,7 @@ tags:
   - Multi-Instrumental
 ---
 
-A cover of Oasis' "Half the World Away".
+Half The World Away - Oasis cover.
 
 I recorded this a little while ago, and the quality is nowhere near as good as it could have been, however I thought I'd still upload it.
 

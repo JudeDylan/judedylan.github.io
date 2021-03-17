@@ -9,7 +9,7 @@ tags:
   - Multi-Instrumental
 ---
 
-All instruments recorded by me (big ups to my mum for the backing vocals though) (:
+All instruments recorded by me (big ups to my mum for the backing vocals though) 😊.
 
 I hope you all like, I put a lot of effort into this, and I know it is far from Beatles quality but I have definitely progressed in terms of my own recording techniques and experimentation.
 
