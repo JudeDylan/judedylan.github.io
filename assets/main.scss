@@ -444,7 +444,7 @@ pre {
   }
   @include media("<desktop", "portrait") {
     width: 95%;
-    margin-bottom: 50px;
+    margin-bottom: 5px;
   }
   @include media("<desktop", "landscape") {
     width: 50%;
