@@ -8,7 +8,6 @@ $ooob-black: #000;
 
 html {
   min-height: 100%;
-  font-size: 62.5%;
   background-color: $ooob-white;
   position: relative;
   -moz-text-size-adjust: none;
@@ -444,7 +443,7 @@ pre {
     width: 40%;
   }
   @include media("<desktop", "portrait") {
-    width: 80%;
+    width: 95%;
   }
   @include media("<desktop", "landscape") {
     width: 50%;
