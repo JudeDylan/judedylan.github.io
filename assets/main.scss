@@ -8,6 +8,7 @@ $ooob-black: #000;
 
 html {
   min-height: 100%;
+  font-size: 62.5%;
   background-color: $ooob-white;
   position: relative;
   -moz-text-size-adjust: none;
@@ -17,6 +18,7 @@ html {
   -ms-touch-action: manipulation;
   touch-action: manipulation;
 }
+
 
 body {
   font: 19px/1.6 "Open Sans", Ubuntu, "Nimbus Sans L", Avenir, AvenirNext,
