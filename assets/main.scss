@@ -444,7 +444,6 @@ pre {
   }
   @include media("<desktop", "portrait") {
     width: 95%;
-    margin-bottom: 5px;
   }
   @include media("<desktop", "landscape") {
     width: 50%;
@@ -453,6 +452,7 @@ pre {
 
 .hero-text a {
   color: $ooob-white;
+  font-size:.8em;
   border-bottom: 0;
   :visited,
   :hover {
