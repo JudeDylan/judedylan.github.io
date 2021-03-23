@@ -109,6 +109,12 @@ window.addEventListener("load", () => {
       appendToPageLink[i].href = appendToPageLink[i].href + "?post=allposts";
     }
   }
+    // style BIO
+    var time = document.getElementsByTagName("time")[0];
+    var bio = document.getElementsByClassName("container")[0];
+    time.innerHTML = "";
+    bio.classList.add("ns-bio");
+  
 });
 
 if (navigator.share) {

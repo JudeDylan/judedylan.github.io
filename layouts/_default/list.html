@@ -5,7 +5,7 @@
 
     <!-- List Posts-->
     <main itemprop="mainEntity" itemscope="" itemtype="http://schema.org/Blog" class="ns-main"> 
-       {{ range .Paginator.Pages }}
+       {{ range .Paginator.Pages.ByWeight }}
        <!-- prettier-ignore-end-->
         <div class="post container" itemscope="" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"> 
           <header>
