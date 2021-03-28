@@ -9,7 +9,7 @@ tags:
   - Multi-Instrumental
 ---
 
-It's out! 🎵🎉🎸🎤  My first every official single released on Spotify.  I wrote this song playing all instruments in addition to self recording & producing this track.
+It's out! 🎵🎉🎸🎤  My first ever official single released on Spotify.  I wrote this song playing all instruments in addition to self recording & producing this track.
 
 {{< rawhtml  >}}
 
