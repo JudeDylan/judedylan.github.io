@@ -18,8 +18,8 @@
   "homepage": "https://github.com/normansolutions/OOOB#readme",
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.3.0",
-    "autoprefixer": "^9.8.6",
-    "cssnano": "^4.1.10",
+    "autoprefixer": "^9.8.8",
+    "cssnano": "^5.1.7",
     "purgecss": "^1.4.0"
   }
 }

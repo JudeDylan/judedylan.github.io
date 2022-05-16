@@ -5,40 +5,28 @@
 
     <!-- List Posts-->
     <main itemprop="mainEntity" itemscope="" itemtype="http://schema.org/Blog" class="ns-main"> 
-       {{ range .Paginator.Pages.ByWeight }}
        <!-- prettier-ignore-end-->
-        <div class="post container" itemscope="" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"> 
-          <header>
-             <h1 itemprop="name headline"><a href="{{.URL}}" rel="canonical" itemprop="url">{{.Title}}</a></h1>
-
-            <time datetime={{.Date }} itemprop="datePublished">Published {{ dateFormat "Monday, Jan 2, 2006" .Date }}</time>
-
-            {{ if .Params.tags }}<span class="ns-tags">| Tags: {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</span>{{end}}
-
-
-            {{ if .Params.categories }}<div><strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>{{end}}
-
-            {{ if .Params.moods }}<div><strong>Moods:</strong> {{range .Params.moods}}<a href="{{ "/moods/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>{{end}}
-
-          </header>
-
-          <div itemprop="articleBody">
-            <p class="ns-post-summary">{{.Summary}}            
-              {{ if .Truncated }}          
-              <span class="ns-readmore">
-                <a href="{{ .RelPermalink }}">➡️</a>
-              </span>             
-              {{ end }}
-              </p>
+       <div class="gig-text">
+         <div class="ns-gigs">
+          <h1>Gig Dates 2022</h1>
+            <ul>  
+              <li class="ns-notpassed">
+                Frome Independant Market - Sunday 4th September 2022
+              </li>
+              <li class="ns-notpassed">
+                Prom Gig - Friday 15th July 2022
+              </li>
+              <li class="ns-notpassed ns-nextgig">
+                Wimborne Folk Festival - TBA
+              </li>                
+              <li class="ns-strikethrough">
+                Wimborne Live and Loud - Sunday 24th April
+              </li>
+            </ul>
           </div>
+         </div>
         </div>
-        <hr/>
-        {{ end }} 
-        {{ $paginator := .Paginate (where .Site.Pages "Type" "post") 2 }}
-        <div class="ns-totalpages">{{$paginator.PageNumber }} of {{ $paginator.TotalPages }}</div>
-
-        {{ partial "pagination.html" . }}            
-      </main> 
+     </main> 
 
     <!-- End List Posts--> 
 
@@ -50,4 +38,3 @@
     <!-- prettier-ignore-end-->
   </body>
 </html>
-

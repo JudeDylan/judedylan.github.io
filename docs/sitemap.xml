@@ -3,152 +3,15 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-        <loc>https://judedylan.co.uk/bio/</loc>
-        <lastmod>2021-03-15T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/beatles/</loc>
-        <lastmod>2021-04-20T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/blackbird/</loc>
-        <lastmod>2021-04-20T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/cover/</loc>
-        <lastmod>2021-04-20T19:33:26+00:00</lastmod>
+        <loc>https://judedylan.co.uk/categories/</loc>
     </url>
   
     <url>
         <loc>https://judedylan.co.uk/</loc>
-        <lastmod>2021-04-20T19:33:26+00:00</lastmod>
     </url>
   
     <url>
         <loc>https://judedylan.co.uk/tags/</loc>
-        <lastmod>2021-04-20T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/multi-instrumental/</loc>
-        <lastmod>2021-03-27T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/radii/</loc>
-        <lastmod>2021-03-27T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/self-composition/</loc>
-        <lastmod>2021-03-27T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/singer-songwriter/</loc>
-        <lastmod>2021-03-27T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/oasis/</loc>
-        <lastmod>2020-11-23T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/wonderwall/</loc>
-        <lastmod>2020-11-23T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/let-it-be/</loc>
-        <lastmod>2020-09-06T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/half-the-word-away/</loc>
-        <lastmod>2020-04-15T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/cast-no-shadow/</loc>
-        <lastmod>2019-11-06T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/live-forever/</loc>
-        <lastmod>2019-10-26T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/nirvana/</loc>
-        <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/sappy/</loc>
-        <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/arctic-monkeys/</loc>
-        <lastmod>2018-12-30T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/my-propeller/</loc>
-        <lastmod>2018-12-30T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/shes-thunderstorms/</loc>
-        <lastmod>2018-11-25T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/alex-turner/</loc>
-        <lastmod>2018-10-28T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/stuck-on-the-puzzle/</loc>
-        <lastmod>2018-10-28T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/look-at-miss-ohio/</loc>
-        <lastmod>2018-10-07T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/nick-mulvey/</loc>
-        <lastmod>2018-10-07T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/tags/catfish-and-the-bottlemen/</loc>
-        <lastmod>2018-08-12T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/seven/</loc>
-        <lastmod>2018-08-12T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/do-me-a-favour/</loc>
-        <lastmod>2018-07-31T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/thats-where-youre-wrong/</loc>
-        <lastmod>2018-07-15T19:33:26+00:00</lastmod>
-    </url>
-  
-    <url>
-        <loc>https://judedylan.co.uk/categories/</loc>
     </url>
   
 </urlset>

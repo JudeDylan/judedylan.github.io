@@ -43,7 +43,6 @@ ul > li {
 }
 
 ul > li::before {
-  content: "⦿";
   display: table-cell;
   padding-right: 10px;
   text-align: right;
@@ -241,7 +240,7 @@ pre {
 
 .pie {
   -webkit-tap-highlight-color: transparent;
-  background: $ooob-black;
+  background: $ooob-red;
   border-radius: 50%;
   box-shadow: 0 0 4px 5px rgba(0, 0, 0, 0.2);
   cursor: pointer;
@@ -307,7 +306,7 @@ pre {
   top: 279px;
   width: 46px;
 }
-.soundcloud {
+.facebook {
   left: 324px;
   position: absolute;
   top: 210px;
@@ -380,7 +379,7 @@ pre {
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/img/BandHeader.jpg?v=fingerprint");
+    url("/img/JD.jpg?v=fingerprint");
 
   /* Set a specific height */
   min-height: 390px;
@@ -397,7 +396,7 @@ pre {
 .webp .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/img/BandHeader.webp?v=fingerprint");
+    url("/img/JD.jpg?v=fingerprint");
 
   /* Set a specific height */
   min-height: 390px;
@@ -414,7 +413,7 @@ pre {
 .avif .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/img/BandHeader.avif?v=fingerprint");
+    url("/img/JD.jpg?v=fingerprint");
 
   /* Set a specific height */
   min-height: 390px;
@@ -484,6 +483,57 @@ pre {
   max-width: 800px;
   position: relative;
   text-align: center;
+}
+
+/* Place text in the middle of the image */
+.gig-text {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: $ooob-white;
+  margin:auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* Gigs */
+.ns-gigs {
+  padding: 15px;
+  margin: auto;
+  max-width: 100%;
+  position: relative;
+  text-align: center;
+
+  ul li {
+    list-style: none;
+    font-size: 1.1em;
+  }
+}
+
+
+
+.ns-nextgig {
+  text-shadow: 0 0 5px $ooob-white, 0 0 10px $ooob-white, 0 0 20px $ooob-black;
+}
+
+.ns-nextgig::after {
+  content: " (next gig)";
+  font-size: 0.9em;
+}
+
+.ns-strikethrough {
+  text-decoration: line-through;
+  color: darken($ooob-white, 30%);
+
+  a {
+    color: darken($ooob-white, 30%);
+  }
+
+  a:hover {
+    color: lighten($ooob-white, 15%);
+  }
 }
 
 /* End Header */
