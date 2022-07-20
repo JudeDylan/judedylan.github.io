@@ -1,3 +1,9 @@
+var listofgigstocome = document.querySelectorAll("ul>li>div.ns-notpassed");
+var nextgig = listofgigstocome[listofgigstocome.length - 1];
+if (nextgig) {
+  nextgig.classList.add("ns-nextgig");
+}
+
 window.addEventListener("load", () => {
   quicklink.listen({
     origins: !0,

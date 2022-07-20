@@ -38,14 +38,14 @@ img {
   page-break-inside: avoid;
 }
 
-ul > li {
-  display: table-row;
+ul {
+  list-style: none;
+  padding-left: 0;
 }
 
-ul > li::before {
-  display: table-cell;
-  padding-right: 10px;
-  text-align: right;
+
+li {
+  margin-bottom: 10px;
 }
 
 hr.style-ns {
@@ -163,7 +163,7 @@ article {
 }
 
 .ns-main {
-  max-width: 750px;
+  max-width: 950px;
   margin: 0 auto;
   padding: 0 1.5em;
   margin-top: 3%;
@@ -486,19 +486,17 @@ pre {
 }
 
 /* Place text in the middle of the image */
-.gig-text {
-  display:flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: $ooob-white;
-  margin:auto;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 10px;
-  border-radius: 10px;
-}
 
 /* Gigs */
+.gig-text{
+  align-items: center;
+  background-color: rgba(0,0,0,.5);
+  border-radius: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
 .ns-gigs {
   padding: 15px;
   margin: auto;
@@ -506,22 +504,25 @@ pre {
   position: relative;
   text-align: center;
 
-  ul li {
-    list-style: none;
+  ul {
+    list-style-type: none;
     font-size: 1.1em;
   }
 }
-
-.gig-box {
-  background-color: $ooob-black;
-  padding:10px;
-  border: #fff 1px;
+.gig-box{
+  background-color: #000;
+  border: 1px #fff;
   margin-bottom: 10px;
+  padding: 10px;
 }
 
+.ns-nextgig::before {
+  content: "🎸";
+}
 
 .ns-nextgig {
-  text-shadow: 0 0 5px $ooob-white, 0 0 10px $ooob-white, 0 0 20px $ooob-black;
+  text-shadow: 0 0 5px $ooob-white, 0 0 10px $ooob-white, 0 0 20px $ooob-white;
+  font-size: 1.2em;
 }
 
 .ns-nextgig::after {
