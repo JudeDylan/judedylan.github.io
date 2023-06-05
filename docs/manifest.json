@@ -14,12 +14,12 @@
 
   "icons": [
     {
-      "src": "/appicons/Icon-196.png",
+      "src": "/appicons/196.png",
       "sizes": "196x196",
       "type": "image/png"
     },
     {
-      "src": "/appicons/Icon-512.png",
+      "src": "/appicons/512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
