@@ -1,0 +1,8 @@
+/* print.css */
+ .container {
+ max-width: 100% !important;
+ max-height: 100% !important; 
+ }
+.shadow-lg {
+   box-shadow: 0 0rem 0rem rgba(0, 0, 0, 0.175) !important;   
+} 
